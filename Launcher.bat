@@ -1,7 +1,7 @@
 ```bat
 @echo off
 setlocal
-title My Windows Launcher by: Joel
+title My Windows Launcher by Joel
 
 :: ==================================================
 :: CONFIGURACAO DA JANELA
